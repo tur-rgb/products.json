@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nama": "Kopi Susu",
+    "harga": 18000,
+    "kategori": "Minuman"
+  },
+  {
+    "id": 2,
+    "nama": "Roti Bakar",
+    "harga": 15000,
+    "kategori": "Makanan"
+  }
+]
